@@ -5,7 +5,7 @@ A T-Rex style endless runner game running on an **ESP32** with a tiny OLED displ
 ---
 
 ## 📸 Demo
-![Dino ESP32 running](assets/Screencast from 2026-03-28 22-53-02.gif)
+![Dino ESP32 running](assets/Screencast.gif)
 
 ---
 
