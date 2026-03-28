@@ -98,12 +98,8 @@ dino-esp32/
 
 ---
 
-## 🙌 Credits
-
-- Original game concept by **Ishani & Arijit Sengupta** (30DLIS kit)
-- ESP32 port, ground detail, jump physics, and buzzer rework by **you**
-- Inspired by the Chrome dinosaur game 🦕
-
+## ✏️ To-Do
+Add ducking mechanic - since ESP32-C3 itself has boot button, i could use that and other button as Jump/Duck buttons.
 ---
 
 ## 📄 License
